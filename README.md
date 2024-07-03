@@ -15,7 +15,7 @@ Create input fields for personal details.
  gender(RadioButton) (ref attached) , 
  weight (TextField), 
  height (TextField), 
- activity level(Slider) (see notes - loan calculator).
+ activity level(Slider - normal(0), high(1), extreme(3)) (see notes - loan calculator).
 ```
 
 Calculate daily caloric needs using a formula.
